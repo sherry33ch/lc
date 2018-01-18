@@ -1,0 +1,1 @@
+var a=10;console.log(a);var b=9;console.log(b);var lcc=function(o,l){console.log(o+l)};
